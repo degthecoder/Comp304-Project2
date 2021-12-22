@@ -37,8 +37,8 @@ double probsDirect[4];
 
 void *police(void*);
 
-void roadHandler(int ); 
-void carToTheRoad(int );
+void roadHandler(int); 
+void carToTheRoad(int);
 void *makeRoad(void *); 
 char* adjustTime(time_t);
 char* timeToString(int); 

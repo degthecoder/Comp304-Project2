@@ -8,5 +8,5 @@ make run
 If you want to specialize the command use -p -s -t instead as shown below
 
 ```
-gcc project2_src.cpp -lpthread -lstdc++ -o project2.out && ./project2.out -p #NUMBER -s #SIMTIME -t #T
+gcc project2_src.cpp -lpthread -lstdc++ -o project2.out && ./project2.out -p #PROBABILITY -s #SIMTIME -t #T
 ```

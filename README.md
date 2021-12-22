@@ -1,5 +1,5 @@
 # Comp304-Project2
-We have implemented the Project 2 of the COMP304 lesson
+We have implemented the Project 2 of the COMP304 lesson.
 You can run the program by running the;
 ```
 make
